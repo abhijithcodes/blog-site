@@ -4,7 +4,7 @@
 	import Footer from "../components/Footer.svelte";
 </script>
 
-<div class="flex flex-col justify-around h-100 ">
+<div class="flex flex-col h-100 ">
 <Header/>
 <HomePage/>
 <Footer/>
